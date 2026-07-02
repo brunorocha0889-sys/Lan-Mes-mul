@@ -1,0 +1,6 @@
+{
+  "name": "Chat Local LAN",
+  "description": "Um aplicativo de chat em rede local privado e seguro que permite enviar mensagens de texto, áudio, vídeo e arquivos sem internet.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
